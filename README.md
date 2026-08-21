@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pushpank-singh1/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pushpank-singh1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/pushpank-singh1/DSA/tree/master/0169-majority-element) |
+| [0287-find-the-duplicate-number](https://github.com/pushpank-singh1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/pushpank-singh1/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/pushpank-singh1/DSA/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/pushpank-singh1/DSA/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/pushpank-singh1/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -64,4 +66,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/pushpank-singh1/DSA/tree/master/2965-find-missing-and-repeated-values) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pushpank-singh1/DSA/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pushpank-singh1/DSA/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pushpank-singh1/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pushpank-singh1/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
