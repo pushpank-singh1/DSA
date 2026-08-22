@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pushpank-singh1/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pushpank-singh1/DSA/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/pushpank-singh1/DSA/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/pushpank-singh1/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/pushpank-singh1/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pushpank-singh1/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pushpank-singh1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -74,10 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/pushpank-singh1/DSA/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/pushpank-singh1/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/pushpank-singh1/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/pushpank-singh1/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
