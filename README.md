@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/pushpank-singh1/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/pushpank-singh1/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pushpank-singh1/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/pushpank-singh1/DSA/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/pushpank-singh1/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pushpank-singh1/DSA/tree/master/0239-sliding-window-maximum) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/pushpank-singh1/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
