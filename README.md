@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pushpank-singh1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pushpank-singh1/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/pushpank-singh1/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pushpank-singh1/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/pushpank-singh1/DSA/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/pushpank-singh1/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pushpank-singh1/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
