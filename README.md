@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/pushpank-singh1/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pushpank-singh1/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/pushpank-singh1/DSA/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/pushpank-singh1/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/pushpank-singh1/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/pushpank-singh1/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/pushpank-singh1/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pushpank-singh1/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/pushpank-singh1/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/pushpank-singh1/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pushpank-singh1/DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/pushpank-singh1/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/pushpank-singh1/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pushpank-singh1/DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/pushpank-singh1/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/pushpank-singh1/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pushpank-singh1/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pushpank-singh1/DSA/tree/master/0169-majority-element) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pushpank-singh1/DSA/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/pushpank-singh1/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/pushpank-singh1/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pushpank-singh1/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/pushpank-singh1/DSA/tree/master/0242-valid-anagram) |
