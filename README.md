@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pushpank-singh1/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/pushpank-singh1/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/pushpank-singh1/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/pushpank-singh1/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pushpank-singh1/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/pushpank-singh1/DSA/tree/master/0031-next-permutation) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/pushpank-singh1/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/pushpank-singh1/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pushpank-singh1/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/pushpank-singh1/DSA/tree/master/0242-valid-anagram) |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pushpank-singh1/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/pushpank-singh1/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
