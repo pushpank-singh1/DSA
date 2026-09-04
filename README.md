@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/pushpank-singh1/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/pushpank-singh1/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pushpank-singh1/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/pushpank-singh1/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/pushpank-singh1/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pushpank-singh1/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/pushpank-singh1/DSA/tree/master/0042-trapping-rain-water) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pushpank-singh1/DSA/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/pushpank-singh1/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/pushpank-singh1/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/pushpank-singh1/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pushpank-singh1/DSA/tree/master/0242-valid-anagram) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/pushpank-singh1/DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/pushpank-singh1/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/pushpank-singh1/DSA/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/pushpank-singh1/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -197,7 +200,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/pushpank-singh1/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/pushpank-singh1/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pushpank-singh1/DSA/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/pushpank-singh1/DSA/tree/master/0090-subsets-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/pushpank-singh1/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/pushpank-singh1/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
