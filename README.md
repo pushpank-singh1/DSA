@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/pushpank-singh1/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pushpank-singh1/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pushpank-singh1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0940-distinct-subsequences-ii](https://github.com/pushpank-singh1/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/pushpank-singh1/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/pushpank-singh1/DSA/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/pushpank-singh1/DSA/tree/master/0443-string-compression) |
+| [0940-distinct-subsequences-ii](https://github.com/pushpank-singh1/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Ternary Search
 |  |
 | ------- |
