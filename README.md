@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pushpank-singh1/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pushpank-singh1/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0225-implement-stack-using-queues](https://github.com/pushpank-singh1/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/pushpank-singh1/DSA/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/pushpank-singh1/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/pushpank-singh1/DSA/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/pushpank-singh1/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/pushpank-singh1/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
