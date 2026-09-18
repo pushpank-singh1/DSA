@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pushpank-singh1/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/pushpank-singh1/DSA/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/pushpank-singh1/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pushpank-singh1/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pushpank-singh1/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/pushpank-singh1/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/pushpank-singh1/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/pushpank-singh1/DSA/tree/master/0050-powx-n) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pushpank-singh1/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/pushpank-singh1/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/pushpank-singh1/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/pushpank-singh1/DSA/tree/master/0061-rotate-list) |
