@@ -1,7 +1,9 @@
 class Solution {
 public:
+    // perform next greater element on nums2 and if val of nums1 matches nums2 then return the found mapped val of next greater of nums2
+
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        unordered_map<int, int> m;
+        unordered_map<int, int> m; // <nums2 val, its next greater>
         stack<int> s;
 
         for(int i=nums2.size()-1; i>=0; i--){
@@ -10,9 +12,9 @@ public:
             }
 
             if(s.empty()){
-                m[nums2[i]] = -1;
+                m[nums2[i]] = -1; //no next greater
             } else {
-                m[nums2[i]] = s.top();
+                m[nums2[i]] = s.top(); //found next greater
             }
 
             s.push(nums2[i]);
@@ -25,6 +27,4 @@ public:
 
         return ans;
     }
-
-    // perform next greater element on nums2 and if val of nums1 matches nums2 then return the found mapped val of next greater of nums2
 };
