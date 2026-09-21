@@ -8,12 +8,15 @@ public:
     }
     
     void push(int x) {
+        // copy s1 to s2
         while(!s1.empty()){
             s2.push(s1.top());
             s1.pop();
         }
+
         s1.push(x);
 
+        // copy back s2 to s1
         while(!s2.empty()){
             s1.push(s2.top());
             s2.pop();
