@@ -5,12 +5,13 @@ public:
         queue<int> q;
 
         for(int i=0; i<s.size(); i++){
-            if(m.find(s[i]) == m.end()){
+            if(m.find(s[i]) == m.end()){ //char not in map
                 q.push(i);
             }
 
             m[s[i]]++;
 
+            //pop repeating chars
             while(q.size() > 0 && m[s[q.front()]] > 1){
                 q.pop();
             }
