@@ -11,21 +11,34 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* root, vector<int>& ans){
-        if(root == NULL){
-            return;
+    // MORRIS INORDER TRAVERSAL
+
+    vector<int> inorderTraversal(TreeNode* root){
+        vector<int> ans;
+        TreeNode* curr = root;
+
+        while(curr != NULL){
+            if(curr->left == NULL){
+                ans.push_back(curr->val);
+                curr = curr->right;
+            } else {
+                //find IP
+                TreeNode* IP = curr->left;
+                while(IP->right != NULL && IP->right != curr){
+                    IP = IP->right;
+                }
+
+                if(IP->right == NULL){
+                    IP->right = curr;
+                    curr = curr->left;
+                } else {
+                    IP->right = NULL;
+                    ans.push_back(curr->val);
+                    curr = curr->right;
+                }
+            }
         }
 
-        inorder(root->left, ans);
-
-        ans.push_back(root->val);
-
-        inorder(root->right, ans);
-    }
-
-    vector<int> inorderTraversal(TreeNode* root) {
-        vector<int> ans;
-        inorder(root, ans);
         return ans;
     }
 };
