@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/pushpank-singh1/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pushpank-singh1/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pushpank-singh1/DSA/tree/master/0572-subtree-of-another-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pushpank-singh1/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/pushpank-singh1/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/pushpank-singh1/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/pushpank-singh1/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pushpank-singh1/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pushpank-singh1/DSA/tree/master/0572-subtree-of-another-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pushpank-singh1/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/pushpank-singh1/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/pushpank-singh1/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pushpank-singh1/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pushpank-singh1/DSA/tree/master/0572-subtree-of-another-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pushpank-singh1/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/pushpank-singh1/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## String Matching
 |  |
@@ -400,4 +403,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/pushpank-singh1/DSA/tree/master/0538-convert-bst-to-greater-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pushpank-singh1/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
