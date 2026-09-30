@@ -20,24 +20,23 @@ public:
         queue<TreeNode*> q;
         q.push(root);
 
-        while (!q.empty()) {
-
+        while(!q.empty()){
             int size = q.size();
             vector<int> level;
 
-            // Process one complete level
-            for (int i = 0; i < size; i++) {
-
-                TreeNode* node = q.front();
+            for(int i=0; i<size; i++){
+                TreeNode* curr = q.front();
                 q.pop();
 
-                level.push_back(node->val);
+                level.push_back(curr->val);
 
-                if (node->left != NULL)
-                    q.push(node->left);
+                if(curr->left != NULL){
+                    q.push(curr->left);
+                }
 
-                if (node->right != NULL)
-                    q.push(node->right);
+                if(curr->right != NULL){
+                    q.push(curr->right);
+                }
             }
 
             ans.push_back(level);
