@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pushpank-singh1/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pushpank-singh1/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/pushpank-singh1/DSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/pushpank-singh1/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pushpank-singh1/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/pushpank-singh1/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/pushpank-singh1/DSA/tree/master/0090-subsets-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/pushpank-singh1/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pushpank-singh1/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pushpank-singh1/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/pushpank-singh1/DSA/tree/master/0079-word-search) |
 | [2596-check-knight-tour-configuration](https://github.com/pushpank-singh1/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/pushpank-singh1/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pushpank-singh1/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/pushpank-singh1/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/pushpank-singh1/DSA/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/pushpank-singh1/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/pushpank-singh1/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pushpank-singh1/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/pushpank-singh1/DSA/tree/master/0242-valid-anagram) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/pushpank-singh1/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/pushpank-singh1/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pushpank-singh1/DSA/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/pushpank-singh1/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pushpank-singh1/DSA/tree/master/0090-subsets-ii) |
 ## Algorithm X
 |  |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/pushpank-singh1/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pushpank-singh1/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/pushpank-singh1/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/pushpank-singh1/DSA/tree/master/0101-symmetric-tree) |
