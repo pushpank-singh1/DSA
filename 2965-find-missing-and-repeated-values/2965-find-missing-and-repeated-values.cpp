@@ -12,14 +12,14 @@ public:
                 actsum += grid[i][j];
 
                 if(s.find(grid[i][j]) != s.end()){
-                a = grid[i][j];
-                ans.push_back(a);
+                    a = grid[i][j];
+                    ans.push_back(a);
                 }
                 s.insert(grid[i][j]);
             }
         }
 
-        expsum = (n*n) * (n*n+1) / 2;
+        expsum = (n*n) * (n*n + 1) / 2;
         b = expsum - actsum + a;
         ans.push_back(b);
         return ans;
