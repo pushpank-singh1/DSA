@@ -5,6 +5,7 @@ public:
         int left = 0;
         int maxLen = 0;
 
+        //check for right in aage ki string, if found repeating then move the left to the next char of the org char of repeating char
         for (int right = 0; right < s.length(); right++) {
             if (mp.find(s[right]) != mp.end() &&
                 mp[s[right]] >= left) {
