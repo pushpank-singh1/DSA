@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/pushpank-singh1/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/pushpank-singh1/DSA/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/pushpank-singh1/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/pushpank-singh1/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/pushpank-singh1/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pushpank-singh1/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pushpank-singh1/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pushpank-singh1/DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pushpank-singh1/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/pushpank-singh1/DSA/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/pushpank-singh1/DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/pushpank-singh1/DSA/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/pushpank-singh1/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/pushpank-singh1/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/pushpank-singh1/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/pushpank-singh1/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pushpank-singh1/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pushpank-singh1/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/pushpank-singh1/DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/pushpank-singh1/DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -430,4 +434,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/pushpank-singh1/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/pushpank-singh1/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/pushpank-singh1/DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/pushpank-singh1/DSA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/pushpank-singh1/DSA/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/pushpank-singh1/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
