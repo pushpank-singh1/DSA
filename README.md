@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pushpank-singh1/DSA/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/pushpank-singh1/DSA/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/pushpank-singh1/DSA/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/pushpank-singh1/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pushpank-singh1/DSA/tree/master/3875-construct-uniform-parity-array-i) |
