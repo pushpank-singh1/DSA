@@ -11,10 +11,10 @@ public:
             rmax = max(rmax, height[r]);
 
             if(lmax < rmax){
-                ans += (lmax - height[l]);
+                ans += lmax - height[l];
                 l++;
-            } else {
-                ans += (rmax - height[r]);
+            }else{
+                ans += rmax - height[r];
                 r--;
             }
         }
